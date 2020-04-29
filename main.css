@@ -48,7 +48,7 @@ body {
 
   .box1 {
     background-color: blue;
-    position: relative;
+    position: static;
     top: 0;
     right: 0;
     bottom: 0;
@@ -56,7 +56,7 @@ body {
   }
   .box2 {
     background-color: red;
-    position: statc;
+    position: static;
     top: 20px;
     right: 0;
     bottom: 0;
@@ -64,7 +64,7 @@ body {
   }
   .box3 {
     background-color: green;
-    position: statc;
+    position: static;
     top: -10px;
     right: 0;
     bottom: 0;
@@ -72,7 +72,7 @@ body {
   }
   .box4 {
     background-color: orange;
-    position: statc;
+    position: static;
     top: 0;
     right: 0;
     bottom: 0;
@@ -81,7 +81,7 @@ body {
 
   .box5 {
     background-color: rebeccapurple;
-    position: statc;
+    position: static;
     top: 0;
     right: 0;
     bottom: 0;

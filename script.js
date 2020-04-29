@@ -7,3 +7,4 @@ const rect1 = box1.getBoundingClientRect();
 const rect2 = box2.getBoundingClientRect();
 const rect3 = box3.getBoundingClientRect();
 const rect4 = box4.getBoundingClientRect();
+
